@@ -5,6 +5,20 @@ import styles from './Experience.module.css';
 
 const professionalExp = [
     {
+    role: "Software Engineer Trainee",
+    company: "FacTech Technologies",
+    period: "Jun 2026 - Present",
+    description: "Working on AI-powered solutions and IoT applications, including MQTT-based device communication, active module discovery, predictive maintenance research, and backend API development. Building scalable systems using FastAPI, Python, and AI technologies.",
+    tech: ["Python", "FastAPI", "MQTT", "AI/ML", "REST APIs", "IoT"]
+},
+  {
+    role: "Software Development Engineer Intern",
+    company: "ParshWebCraft",
+    period: "May 2026 - Jun 2026",
+    description: "Worked on 3+ full-stack web application projects by developing scalable features, integrating REST APIs, optimizing performance, debugging applications, and collaborating on responsive UI development and deployment workflows.",
+    tech: ["React", "Next.js", "REST APIs", "JavaScript", "Git", "Deployment"]
+},  
+    {
         role: "Frontend Web Intern",
         company: "LioMonk",
         period: "Internship",
