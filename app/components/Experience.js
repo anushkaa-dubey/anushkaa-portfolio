@@ -8,7 +8,7 @@ const professionalExp = [
     role: "Software Engineer Trainee",
     company: "FacTech Technologies",
     period: "Jun 2026 - Present",
-    description: "Building AI-powered IoT solutions using FastAPI, Python, and MQTT. Working on device communication, active module discovery, backend APIs, and predictive maintenance research."",
+    description: "Building AI-powered IoT solutions using FastAPI, Python, and MQTT. Working on device communication, active module discovery, backend APIs, and predictive maintenance research.",
     tech: ["Python", "FastAPI", "MQTT", "AI/ML", "REST APIs", "IoT"]
 },
   {
