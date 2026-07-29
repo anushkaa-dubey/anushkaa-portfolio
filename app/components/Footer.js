@@ -47,7 +47,7 @@ export default function Footer() {
                     <div className={styles.contactInfo}>
                         <h2 className={styles.title}>Let's Connect</h2>
                         <p className={styles.subtitle}>Currently available for professional opportunities and interesting collaborations.</p>
-                        <a href="mailto:anushkadubey@example.com" className={styles.email}>anushkadubey@example.com</a>
+                        <a href="mailto:anushka25dubey@gmail.com" className={styles.email}>anushka25dubey@gmail.com</a>
 
                         <div className={styles.socials}>
                             <a href="https://github.com/anushkaa-dubey" target="_blank" rel="noopener noreferrer" className={styles.socialLink}>
